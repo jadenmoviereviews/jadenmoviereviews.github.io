@@ -1,10 +1,14 @@
 # How to use GitHub
 
-1. Pull in GitHub desktop
-2. Make your edits
-3. Save
-4. Name your commits in GitHub desktop
-5. Commit
-6. Push
-7. Open a pull request
-8. Wait for merge
+1. Open terminal in VS Code (⌘ + `)
+2. Type: "git fetch upstream"
+3. Type: "git checkout main"
+4. Type: "git merge upstream/main"
+5. Pull in GitHub desktop
+6. Make your edits
+7. Save
+8. Name your commits in GitHub desktop
+9. Commit
+10. Push
+11. Open a pull request
+12. Wait for merge
