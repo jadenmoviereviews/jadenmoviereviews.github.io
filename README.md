@@ -11,4 +11,4 @@
 9. Commit
 10. Push
 11. Open a pull request
-12. Wait for merge
+12. Wait for someone to merge you commits
