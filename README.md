@@ -10,5 +10,5 @@
 8. Name your commits in GitHub desktop
 9. Commit
 10. Push
-11. Open a pull request
-12. Wait for merge
+11. Open a pull request in **your personal fork**
+12. Wait for someone to merge your commits
