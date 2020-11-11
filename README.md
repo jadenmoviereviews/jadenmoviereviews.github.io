@@ -1,6 +1,6 @@
 # How to use GitHub
 
-1. Open terminal in VS Code (⌘ + `)
+1. Open terminal in VS Code (⌃ + `)
 2. Type: "git fetch upstream"
 3. Type: "git checkout main"
 4. Type: "git merge upstream/main"
