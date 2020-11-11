@@ -11,4 +11,4 @@
 9. Commit
 10. Push
 11. Open a pull request in **your personal fork**
-12. Wait for someone to merge you commits
+12. Wait for someone to merge your commits
