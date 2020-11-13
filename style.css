@@ -1,3 +1,23 @@
 * {
-    font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+}
+table.centerTwo {
+  margin-left: auto;
+  margin-right: auto;
+}
+.boxModel {
+  background-color: grey;
+  color: powderblue;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.center {
+  text-align: center;
+}
+p1 {
+  font-size: 35px;
+}
+p5 {
+  font-size: 25px;
 }
