@@ -14,7 +14,7 @@
 2. Type: `git status`
 3. Make sure that all of the changes are correct.
 4. Type: `git add .`
-5. Type: `git commit -m **your message here**`
+5. Type: `git commit -m "your message here"`
 6. Type: `git push`
 7. Open a pull request in **your personal fork**.
 8. Merge commits if there aren't any conflicts.
