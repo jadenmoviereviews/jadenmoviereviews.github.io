@@ -4,7 +4,6 @@
 2. Type: `git fetch upstream`
 3. Type: `git checkout main`
 4. Type: `git merge upstream/main`
-5. Pull in GitHub desktop
 6. Make your edits
 7. Save
 
