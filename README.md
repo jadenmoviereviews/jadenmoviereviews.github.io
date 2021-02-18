@@ -1,4 +1,6 @@
-# What to do every time you want to edit this repository:
+# jadenmoviereview.github.io
+
+## What to do every time you want to edit this repository:
 
 1. Open terminal in VS Code (⌃ + `)
 2. Type: `git fetch upstream`
@@ -7,7 +9,7 @@
 6. Make your edits
 7. Save
 
-# What after you save your changes:
+## What after you save your changes:
 
 1. Open terminal in VS Code (⌃ + `)
 2. Type: `git status`
