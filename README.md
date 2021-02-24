@@ -19,3 +19,4 @@
 6. Type: `git push`
 7. Open a pull request in **your personal fork**.
 8. Merge commits if there aren't any conflicts.
+  - Make sure to hit the arrow next to the "merge" button and select "merge and rebase"
